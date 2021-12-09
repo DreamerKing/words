@@ -10,4 +10,6 @@
   4. Also, don't rub it hard, just dab it lightly. 也不要太用力擦，轻怕就行了。
    
 2. dabble 
-   
+  vt. 溅湿；浸入水中
+  vi. 涉猎；涉足；玩水
+  Most people dabble their way through life, never deciding to master anything in particular. 多数人一生随波逐流，从不聚焦于掌握某个特定方面的本领。
