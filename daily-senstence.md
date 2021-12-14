@@ -1,1 +1,3 @@
-+ The more you take, the less you have. 索之越多，得之越少。
+- The more you take, the less you have. 索之越多，得之越少。
+- It's not the mountain we conquer, but ourselves. 我们要挑战的不是高山而是我们自己.
+- Every child eventually comes to a bridge that they must crosss alone. 终有一天，孩子需要独自面对生活。
