@@ -6,7 +6,7 @@
 
 2. yard  
     n. 1. 码; 帆桁(heng); 2. 院子；庭院；庭园。  
-   yardstick 码尺; 尺度；衡量的标准。
+   yardstick 码尺; 尺度；衡量标准。
 
 3. year  
    n. 年；载；年纪；岁数；长久；多年；年度。  
@@ -41,7 +41,6 @@
    n. 后裔；仔；雏
    The cat fought fierecely to defend its young. 那只猫奋力反抗以保护小猫。
 
-7. youth
-   n. 青春;青春期;青少年时代；活力；朝气；青年；青年男女；青年们。
-   youthfull  
-   adj. 青年的；朝气蓬勃的。
+7. youth n. 青春;青春期;青少年时代；活力；朝气；青年；青年男女；青年们。
+
+   youthfull adj. 青年的；朝气蓬勃的。
