@@ -9,7 +9,7 @@
 
   1. 舍弃，背弃
 
-  1. 放纵，放肆，纵情 abandon oneself to
+  1. 放纵，放肆，纵情 abandon oneself to  
    Don't abandon yourself to despair. 不要悲观失望。
 
    n.
@@ -20,7 +20,10 @@
 
 ## 2. abandoned
 
- adj. 被遗弃的，放纵的，过度的，放荡的，荒淫的，堕落的，腐化的
+ adj. 
+ 1. 被遗弃的，
+ 2. 放纵的，过度的，放荡的，荒淫的，
+ 3. 堕落的，腐化的
 
 ## 3. abase
 
@@ -90,3 +93,42 @@ abetment n.
 
 abetter/abettor n.
 
+## 10. acquit
+
+vt. 宣判...无罪;免除...责任(义务等);为自己洗清 
+
+acquital n. (债务的)清偿；(职责的)履行
+
+## 11 accross
+prep.  
+1. 横过；越过
+2. 在...的另外一边
+3. 交叉
+   
+adv. 
+1. 从一边到另外一边；到对面
+2. 交叉地
+
+accross与through
+
+accross 从表面横过、穿过，含义与on相关；
+
+through 从中穿过、通过，含义与in相关。
+
+## 12. adamant
+
+adj.
+
+1. 坚定不移的
+2. 坚硬的
+
+n. 坚硬的东西 
+
+## 13. adapt
+vt. 
+1. 使适应，使配合 [同] adjust
+2. 改编，改写
+
+adaptable adj.  
+adaptaction n.  
+adaptor, adapter n. 接合器，接头，改编者
