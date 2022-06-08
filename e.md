@@ -1,4 +1,4 @@
-1. each 
+1. each
    det. 每；各  
    adj. 各自的；每个的  
    pron. 每个;各个  
@@ -9,7 +9,9 @@
 
 2. eager
    adj. 热心的；热切的；渴望的；渴求的。  
-   be eager for 渴望;迫切要   
+   be eager for 渴望;迫切要  
    He was eager to get into politcs.
    他渴望从政。  
-   They was eager for a second bite for the cherry.  他们渴望获得第二次机会。
+   They was eager for a second bite for the cherry. 他们渴望获得第二次机会。
+
+   extract 提炼

@@ -11,3 +11,5 @@
    n. 雕像;偶像；代表；图标；画像；圣像
    That icon now has been destroyed.
    如今，这尊雕像已经被毁坏了。
+
+infrastructure 基础设施
